@@ -9,7 +9,7 @@
 Empirical Solutions Logic Architect and programmer specializing in critical infrastructure, security, and deterministic systems. Combining field electrotechnology discipline with high-performance software engineering.
 
 * **Core Stack:** Linux Mint, Python 3.13, Termux, Automation, System Hardening, and Networking.
-* **Specialties:** Applied cryptography, parity engines (Base 12), OSINT analysis, payment platforms, and distributed systems architecture free of corporate dependencies.
+* **Specialties:** Applied cryptography,   ; OSINT analysis, payment platforms, and distributed systems architecture free of corporate dependencies.
 * **Infrastructure & Networking:** Certified Data Networks and Structured Cabling Technician (Cisco / Carlos Slim Foundation)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
 
 ---
